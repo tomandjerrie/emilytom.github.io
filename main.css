@@ -73,7 +73,7 @@ p {
 }
 
    #info:hover {
-        cursor: url(Cursor/CursorInfo.png) 25 25, auto;
+        cursor: url(http://matskafte.com/Cursor/CursorInfo.png) 25 25, auto;
         -webkit-transform: scale(1.05);
             -ms-transform: scale(1.05);
                 transform: scale(1.05);
@@ -93,7 +93,7 @@ p {
 }
 
 #next:hover {
-    cursor: url(Cursor/CursorDown.png) 50 75, auto;
+    cursor: url(http://matskafte.com/Cursor/CursorDown.png) 50 75, auto;
         -webkit-transform: scale(1.05);
             -ms-transform: scale(1.05);
                 transform: scale(1.05);
@@ -112,7 +112,7 @@ p {
 }
 
 #prev:hover {
-    cursor: url(Cursor/cursorup.png) 50 75, auto;
+    cursor: url(http://matskafte.com/Cursor/cursorup.png) 50 75, auto;
         -webkit-transform: scale(1.05);
             -ms-transform: scale(1.05);
                 transform: scale(1.05);
@@ -134,7 +134,7 @@ p {
     }
 
 .Slide:hover {
-        cursor: url(Cursor/CursorBoth.png) 50 50, auto;
+        cursor: url(http://matskafte.com/Cursor/CursorBoth.png) 50 50, auto;
     }
 
     #landing {
@@ -144,7 +144,7 @@ p {
     }
 
 #landing:hover {
-        cursor: url(Cursor/CursorDown.png) 50 50, auto;
+        cursor: url(http://matskafte.com/Cursor/CursorDown.png) 50 50, auto;
 }
 
     #first {

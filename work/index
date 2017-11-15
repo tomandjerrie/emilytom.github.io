@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content="width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0" name="viewport">
+    <title>Emily and Tom</title>
+  </head>
+  <link href="/index.css" rel="stylesheet" type="text/css">
+  <body>
+     <div class="layout">
+        <a href="/">E&T</a>
+        <span> → work</span><br><br>
+      <ul>        
+        <li><a class="title title-folder" href="https://goo.gl/photos/eiFsPaeq2VFBhgi19">Cunt & Shit (2016)</a></li>
+        <li><a class="title title-folder" href="https://photos.app.goo.gl/GfupRfLXQwezYRe23">Untitled (Shortly Before the Deciding Goal, 2016)</a></li>
+        <li><a class="title title-folder" href="https://photos.app.goo.gl/jFvBw1XE13LREcLM2">Heart of Darkness (Colin Still, 2016)</a></li>
+        <li><a class="title title-folder" href="https://drive.google.com/drive/folders/0Bydg1JXZmmwKOUFjalE4a2o2ZWs?usp=sharing">sinks (2017)</a></li>
+        <li><a class="title title-folder" href="https://drive.google.com/drive/folders/0Bydg1JXZmmwKOUFjalE4a2o2ZWs?usp=sharing">sticks (2017)</a></li>
+        <li><a class="title title-folder" href="https://drive.google.com/open?id=0Bydg1JXZmmwKM05rcC01Q2tocXM">unravel/ravel (<i>hand-towel series</i>, 2017)</a></li>
+        <li><a class="title title-folder" href="https://drive.google.com/drive/folders/0Bydg1JXZmmwKOUFjalE4a2o2ZWs?usp=sharing">uniforms (<i>hand-towel series</i>, 2017)</a></li>
+        <li><a class="title title-folder" href="https://drive.google.com/drive/folders/0Bydg1JXZmmwKOUFjalE4a2o2ZWs?usp=sharing">koup de grâce (2017)</a></li>
+        <li><a class="title title-folder" href="https://drive.google.com/drive/folders/0Bydg1JXZmmwKOUFjalE4a2o2ZWs?usp=sharing">pages (2016 - ongoing)</a></li>
+      </ul>
+    </div>
+  </body>
+</html>

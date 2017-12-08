@@ -13,7 +13,7 @@
     var img = '<img src=\"';
     var randomIndex = Math.floor(Math.random() * imageURLs.length);
     img += imageURLs[randomIndex];
-    img += '\" alt=\"Some alt text\"/>';
+    img += '\" alt=\""/>';
     return img;
   }
 </script>
@@ -27,7 +27,7 @@
       <ul>
         <script type="text/javascript">
   document.write(getImageTag());
-</script>
+</script><img align="right" height="390">
         <br><br>
       <li><a class="title title-folder" href="/work/index.html">work</a></li>      
     

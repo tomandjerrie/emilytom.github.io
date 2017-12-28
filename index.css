@@ -15,7 +15,7 @@ animation: colorchange 50s infinite; /* animation-name followed by duration in s
       0%   {background: #d3d3d3;}
       25%  {background: #969696;}
       50%  {background: #777474;}
-      75%  {background: #75828c;}
+      75%  {background: #778277;}
       100% {background: #6c7a66;}
     }
 
@@ -24,7 +24,7 @@ animation: colorchange 50s infinite; /* animation-name followed by duration in s
       0%   {background: #d3d3d3;}
       25%  {background: #969696;}
       50%  {background: #777474;}
-      75%  {background: #75828c;}
+      75%  {background: #778277;}
       100% {background: #6c7a66;}
     }
 }

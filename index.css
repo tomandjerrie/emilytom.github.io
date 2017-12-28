@@ -16,7 +16,7 @@ animation: colorchange 25s infinite; /* animation-name followed by duration in s
       25%  {background: #969696;}
       50%  {background: #777474;}
       75%  {background: #778277;}
-      100% {background: #6c7a66;}
+      100% {background: #6c787a;}
     }
 
     @-webkit-keyframes colorchange /* Safari and Chrome - necessary duplicate */
@@ -25,7 +25,7 @@ animation: colorchange 25s infinite; /* animation-name followed by duration in s
       25%  {background: #969696;}
       50%  {background: #777474;}
       75%  {background: #778277;}
-      100% {background: #6c7a66;}
+      100% {background: #6c787a;}
     }
 }
 ul {

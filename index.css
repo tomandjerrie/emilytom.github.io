@@ -5,28 +5,7 @@ body {
   margin: 0;
   padding: 0;
   font-family: 'Inconsolata','Courier', monospace;
-animation: colorchange 25s infinite; /* animation-name followed by duration in seconds*/
-         /* you could also use milliseconds (ms) or something like 2.5s */
-      -webkit-animation: colorchange 25s infinite; /* Chrome and Safari */
-    }
-
-    @keyframes colorchange
-    {
-      0%   {background: #d3d3d3;}
-      25%  {background: #969696;}
-      50%  {background: #777474;}
-      75%  {background: #778277;}
-      100% {background: #6c787a;}
-    }
-
-    @-webkit-keyframes colorchange /* Safari and Chrome - necessary duplicate */
-    {
-      0%   {background: #d3d3d3;}
-      25%  {background: #969696;}
-      50%  {background: #777474;}
-      75%  {background: #778277;}
-      100% {background: #6c787a;}
-    }
+  background-color: #b1b2a0;
 }
 ul {
   list-style: none;

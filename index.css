@@ -5,9 +5,9 @@ body {
   margin: 0;
   padding: 0;
   font-family: 'Inconsolata','Courier', monospace;
-animation: colorchange 50s infinite; /* animation-name followed by duration in seconds*/
+animation: colorchange 25s infinite; /* animation-name followed by duration in seconds*/
          /* you could also use milliseconds (ms) or something like 2.5s */
-      -webkit-animation: colorchange 50s infinite; /* Chrome and Safari */
+      -webkit-animation: colorchange 25s infinite; /* Chrome and Safari */
     }
 
     @keyframes colorchange
